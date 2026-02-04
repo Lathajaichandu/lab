@@ -1,0 +1,1 @@
+Practicing GitHub commands from Ubuntu terminal
