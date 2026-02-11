@@ -1,4 +1,4 @@
-a=int(input("enter output :"))
+a=213324
 if a%2==0:
   print("Its a even number ")
 else:
